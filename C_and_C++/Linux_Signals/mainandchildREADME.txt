@@ -7,5 +7,3 @@ lock is designed so that the non-asyn-safe properties of printf don't create
 any problems. Obviously there are many different ways of doing this, but I
 wanted to demonstrate that I understand different ways of dealing with signals
 and process asynchronus calls. 
-
-I've done a good bit more in c and C++. This is a quick intro. 

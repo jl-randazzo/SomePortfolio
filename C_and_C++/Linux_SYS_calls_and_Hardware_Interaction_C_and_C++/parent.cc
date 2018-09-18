@@ -498,7 +498,7 @@ void message_receiving(int signum)
 	}
 }
 
-//WRITTEN HALF BY DR. BEATY AND IMPROVED BY ME FOR MY PURPOSES
+//WRITTEN HALF BY DR. BEATY AND CHANGED BY ME FOR MY PURPOSES
 /*
 ** set up the "hardware"
 */

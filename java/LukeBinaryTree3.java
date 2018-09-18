@@ -280,7 +280,7 @@ public class LukeBinaryTree3 {
         else inOrder(fw);
     }
 
-    public void preOrder (FileWriter fw) throws IOException{
+    public void preOrder(FileWriter fw) throws IOException{
         fw.write("PREORDER OUTPUT:\n\n");
         if(root!=null) preOrder(root, fw);
     }
@@ -292,7 +292,7 @@ public class LukeBinaryTree3 {
         preOrder(current.right, fw);
     }
 
-    public void inOrder (FileWriter fw) throws IOException{
+    public void inOrder(FileWriter fw) throws IOException{
         fw.write("INORDER OUTPUT:\n\n");
         if(root!=null) inOrder(root, fw);
     }
