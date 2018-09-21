@@ -48,7 +48,7 @@ public class Calculate
 			}
 			sc.close();
 		}
-		catch(IllegalArgumentException e)//not terribly concerned about Exception type for this
+		catch(Exception e)//not terribly concerned about Exception type for this
 		{
 			System.out.println("Error reading file");
 			System.exit(1);
