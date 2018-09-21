@@ -6,7 +6,7 @@ BasicPlayerMovement.cs
 DEMONSTRATES: Anonymous functions and delegates, Observer pattern
 understanding, asyncronous events, independently learned API, enumerations,
 auto-implemented properties and get/set accessors, non-blocking i/o,
-encapsulation, linear algebra/vector multiplication, calculous, 
+encapsulation, linear algebra/vector multiplication, calculus, 
 physics, and a little bit of polymorphism.
 
 This is a personal project that I've been working on with a friend from
