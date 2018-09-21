@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class Assertions
 {
-
+	@FunctionalInterface
 	public interface Assertable<T>
 	{
 		void test(T a, T b);
