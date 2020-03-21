@@ -1,3 +1,5 @@
+AUTHOR: Luke Randazzo
+
 This code was extracted from a larger image-processing focused project. It's also the best demonstration available of my C++ skills. 
 
 Of particular interest here is the LowerLevelLinearFunctions, both .h and .cpp. I implemented my own matrix template.
