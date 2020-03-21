@@ -1,0 +1,14 @@
+{
+   "hashes":[
+      {
+         "hash":"A;??%?\u0007?:",
+         "methodName":"DynamicMethod_0",
+         "assemblyQalifiedName":"DynamicallyGeneratedCodeFragments.Fragments,DynamicCode_00000, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      },
+      {
+         "hash":"?\u000E??r^x?s????2g?/_7?:\u0018mHP2v??<??",
+         "methodName":"DynamicMethod_1",
+         "assemblyQalifiedName":"DynamicallyGeneratedCodeFragments.Fragments,DynamicCode_00000, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      }
+   ]
+}
